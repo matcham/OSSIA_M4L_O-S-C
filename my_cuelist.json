@@ -1,0 +1,36 @@
+{
+	"init" : 	{
+		"fm.1/gain" : -12.0,
+		"fm.1/pan" : 0.0,
+		"fm.1/ramptime" : 20.0,
+		"fm.1/carrier/frequency" : 440.0,
+		"fm.1/cutoff/frequency" : 5000.0,
+		"fm.1/modulation/index" : 10.0,
+		"fm.1/modulation/ratio" : 4.0,
+		"fm.2/gain" : -12.0,
+		"fm.2/pan" : 0.0,
+		"fm.2/ramptime" : 20.0,
+		"fm.2/carrier/frequency" : 440.0,
+		"fm.2/cutoff/frequency" : 5000.0,
+		"fm.2/modulation/index" : 10.0,
+		"fm.2/modulation/ratio" : 4.0
+	}
+,
+	"myCue_1" : 	{
+		"fm.1/gain" : -3.732283,
+		"fm.1/pan" : 0.0,
+		"fm.1/ramptime" : 20.0,
+		"fm.1/carrier/frequency" : 5423.317382999999609,
+		"fm.1/cutoff/frequency" : 373.843903000000012,
+		"fm.1/modulation/index" : 301.338562000000024,
+		"fm.1/modulation/ratio" : 2.189158,
+		"fm.2/gain" : -41.763786000000003,
+		"fm.2/pan" : 1.0,
+		"fm.2/ramptime" : 20.0,
+		"fm.2/carrier/frequency" : 1812.48681600000009,
+		"fm.2/cutoff/frequency" : 26.529157999999999,
+		"fm.2/modulation/index" : 387.952788999999996,
+		"fm.2/modulation/ratio" : 6.440701
+	}
+
+}
